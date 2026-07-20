@@ -55,4 +55,4 @@ CSI competes in **first-price, sealed-bid** construction auctions — *"like a g
 
 Team analytics-consulting project (team of 5) via the **Carlson Analytics Lab**, University of Minnesota. My contribution: _[Add 1–2 lines on what you owned — e.g., competitor pricing-aggression analysis and the geographic bidding views.]_
 
-Built by **Parul Chaudhary** · [LinkedIn](#) · [Email](mailto:parul.jaswant@gmail.com)
+Built by **Parul Chaudhary** · [LinkedIn](https://www.linkedin.com/in/parul-chaudhary-39269b213) · [Email](mailto:parul.jaswant@gmail.com)
